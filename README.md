@@ -13,7 +13,7 @@ These are the stated processes in the methodoly:
 
 # Project Details
 
-I have used a [dataset]() that I have combined from multiple source like Wikipedia and Kaggle, I am trying to find strongly coupled attributes with respect to our output label. The focus of this project is to highlight how deployment would work in a Data Engineering project and optimization of models.
+I have used a [dataset](https://raw.githubusercontent.com/RAMPAGEXP/data_engineering_crisp_dm/main/dataset/dataset.csv) that I have combined from multiple source like Wikipedia and Kaggle, I am trying to find strongly coupled attributes with respect to our output label. The focus of this project is to highlight how deployment would work in a Data Engineering project and optimization of models.
 
 # Process Breakdown
 
