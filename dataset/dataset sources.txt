@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/swatikhedekar/car-price-prediction
+https://www.kaggle.com/datasets/rishishwar123/car-prediction
+https://www.openml.org/search?type=data&status=active&id=44994
