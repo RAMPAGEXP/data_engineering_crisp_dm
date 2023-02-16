@@ -141,7 +141,7 @@ font_size = ("Courier", 14)
 # Machine Learning model
 class MLModel:
     def __init__(self):
-        url = "https://raw.githubusercontent.com/S-Mann/hyperparameter_optimization/master/dataset/dataset.csv"
+        url = "https://raw.githubusercontent.com/RAMPAGEXP/data_engineering_crisp_dm/main/dataset/dataset.csv"
         s = requests.get(url).content
         self.dataset = pd.read_csv(io.StringIO(s.decode('utf-8')))
         self.excluded_columns = [x not in ['model', 'msrp', 'model_year', 'popularity', 'profit_per_unit', 'units_sold']
