@@ -1,6 +1,6 @@
 # CRISP-DM Example
 
-This project follows the CRISP-DM (CRoss Industry Standard Process for Data Engineering) and breaks down each of it's processes with the respect to the project
+This project follows the CRISP-DM (CRoss Industry Standard Process for Data Mining) and breaks down each of it's processes with the respect to the project
 
 These are the stated processes in the methodoly:
 
